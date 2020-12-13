@@ -1,0 +1,4 @@
+There are usefull yet necessary online courses
+
+1) https://www.coursera.org/learn/python-data-analysis?
+2) https://www.coursera.org/specializations/data-science-python?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-HHqsG03UXnPXpbP6ELGsVg&siteID=SAyYsTvLiGQ-HHqsG03UXnPXpbP6ELGsVg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ#courses
